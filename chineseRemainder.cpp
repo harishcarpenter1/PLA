@@ -1,3 +1,4 @@
+// program to calculate multipicative inverse using chinese remainder method
 #include <bits/stdc++.h>
 using namespace std;
 
