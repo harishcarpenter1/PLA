@@ -1,3 +1,5 @@
+// program to print whether the given string is lexicographically palindrom or not
+
 #include <bits/stdc++.h>
 using namespace std;
 
