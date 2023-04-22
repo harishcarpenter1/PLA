@@ -1,4 +1,4 @@
-Leetcode - Longest Palindromic substring - <a href="https://leetcode.com/problems/longest-palindromic-substring/description/">Click Here!</a>
+// Leetcode - Longest Palindromic substring - https://leetcode.com/problems/longest-palindromic-substring/description/"
 
 // c++ program to get the longest palindromic substring
 // Approach - maintain a nxn table for checking whether a substring is palindrom or not.
